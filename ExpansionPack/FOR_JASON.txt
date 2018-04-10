@@ -1,0 +1,22 @@
+NEW FILES ADDED:
+
+index.php
+dbFunctions.php
+profile.php
+basketball_Hoop.jpg
+
+CHANGES MADE TO EXISTING FILES
+
+header.php
+
+FILES THAT WERE MOVED
+
+styles2.css was moved OUT to main folder so that index.php can read it
+
+
+FILES THAT WERE DELETED
+
+testwillDelete.php
+styles.css (old)
+
+
